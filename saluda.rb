@@ -9,6 +9,7 @@ puts arreglo
 
 nombre = nombre.chomp
 
-puts "Hola #{nombre}!"
+puts "Hola #{nombre}! github"
+
 
 

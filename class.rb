@@ -45,6 +45,8 @@ class Gato
 		 	  juntar = @ordena + juntar 
 		 	  juntar.map do |n|
 		 	  n.class
+		 	  #juntar = @ordena + jojo
+		 		#juntar.map do |n| n.class end
 		 	end
 
 		end
